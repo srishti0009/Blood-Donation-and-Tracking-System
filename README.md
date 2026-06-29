@@ -1,0 +1,2 @@
+◦This is a modern Next.js app built with React and TypeScript, made for AI and ML-powered products. It uses Tailwind and shadcn/ui for a clean, accessible design with dark mode, and interactive charts to clearly show data and model performance. The app is structured to easily support chatbots, AI dashboards, search tools, and predictive analytics.
+◦It also includes smooth animations, smart forms, notifications, and built-in analytics to track user behavior and AI performance, making it practical, scalable, and production-ready.
